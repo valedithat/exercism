@@ -1,5 +1,3 @@
-require 'pry'
-
 class Year
   def self.leap?(year)
     if divisable_by_4?(year)
