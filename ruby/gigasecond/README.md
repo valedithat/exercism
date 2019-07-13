@@ -6,8 +6,6 @@ A gigasecond is 10^9 (1,000,000,000) seconds.
 
 * * * *
 
-
-
 For installation and learning resources, refer to the
 [Ruby resources page](http://exercism.io/languages/ruby/resources).
 
