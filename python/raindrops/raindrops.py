@@ -1,9 +1,10 @@
 def raindrops(number):
     if number % 3 == 0:
-        print('Pling')
+        result = 'Pling'
     elif number % 5 == 0:
-        print('Plang')
+        result = 'Plang'
     elif number % 7 == 0:
-        print('Plong')
+        result = 'Plong'
     else:
-        print(str(number))
+        result = str(number)
+    return result
