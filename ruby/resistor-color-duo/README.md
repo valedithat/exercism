@@ -19,7 +19,6 @@ For example, if they printed a brown band (value 1) followed by a green band (va
 
 In this exercise you are going to create a helpful program so that you don't have to remember the values of the bands.
 The program will take color names as input and output a two digit number, even if the input is more than two colors!
->>>>>>> afb605a (add new languages)
 
 The band colors are encoded as follows:
 
