@@ -1,6 +1,6 @@
 CREATE OR REPLACE PACKAGE hello_world# IS
    FUNCTION hello(
-      i_name                                        varchar2 := ''
+      i_name                                        varchar2 := 'Hello, World!'
    ) 
       RETURN varchar2;
 
